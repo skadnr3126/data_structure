@@ -1,20 +1,16 @@
-# data struct implement
+스택
 
-# List
-stack,queue,Deque
+큐
 
+원형큐
 
-# Linked list
+덱
 
+우선순위큐
 
+이진트리
 
-# Tree
-기본트리,이진 트리,이진탐색트리,레드블랙트리,b트리,완전이진트리
+레드블랙트리
 
--> 우선순위큐,set,map,trie등
+해쉬테이블
 
-
-# Hashtalbe
-딕셔너리(Dictionary), 맵(Map) 
-
-# Grape
