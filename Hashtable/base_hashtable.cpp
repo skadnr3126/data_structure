@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-
+//only contain hashtable function
 template <typename key_type , typename value_type>
 class dictionary{
 
